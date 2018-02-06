@@ -1,0 +1,14 @@
+For all headings, sub-headings, quotes, and like-wise sections, the font to be used is "LOVE YA LIKE A SISTER"
+For all paragraph texts, the font to be used is "Montserrat"
+
+Both this font can be embedded using this line of coded:
+<link href="https://fonts.googleapis.com/css?family=Love+Ya+Like+A+Sister|Montserrat" rel="stylesheet">
+
+while using in the style sheet:
+
+font-family: 'Montserrat', sans-serif;
+font-family: 'Love Ya Like A Sister', cursive;
+
+****************************************************
+for resizing images use: http://resizeimage.net/
+****************************************************
